@@ -1,4 +1,4 @@
 Linha 1
-Linha 2
+Linha 2 arquivo alterado por outra pessoa
 Linha 3
 Linha 4
