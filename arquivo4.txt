@@ -1,4 +1,8 @@
 Linha 1
+<<<<<<< HEAD
 Linha 2 - alteração no arquivo
+=======
+Linha 2 arquivo alterado por outra pessoa
+>>>>>>> bdc974b147b8d360001256a90a4cb4b45829981a
 Linha 3
 Linha 4
